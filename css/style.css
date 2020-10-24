@@ -336,6 +336,7 @@ body {
     border: 1px solid #E8E8E8;
     margin-top: 20px;
     position: relative;
+    margin-bottom: 60px;
 }
 
 .promo::before {
@@ -373,6 +374,7 @@ body {
     color: #595959;
     margin-bottom: 30px;
     min-height: 362px;
+    resize: none;
 }
 
 .add-button {
